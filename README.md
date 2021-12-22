@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alexandrress
 - 👀 I’m interested in development. Games, web-apps, applications...
-- 🌱 I’m currently learning all kind of stuff!
+- 🌱 I’m currently learning all kind of stuff !
 - 💞️ I’m looking to collaborate on cool projects.
 - 📫 https://www.linkedin.com/in/alexandre-leveque-101848187/
