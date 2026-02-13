@@ -2,4 +2,4 @@
 - 👀 I’m interested in DevOps. CI/CD, Cloud, Kubernetes...
 - 🌱 I’m currently learning all kind of stuff !
 - 💞️ I’m looking to collaborate on cool projects.
-- 📫 https://www.linkedin.com/in/alexandre--leveque/
+- 📫 https://www.linkedin.com/in/alexandre-leveque15
