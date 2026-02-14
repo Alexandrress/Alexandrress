@@ -4,11 +4,11 @@
 
 <br />
 
-### About Me 🚀
+### About Me 👨‍💻
 🌱 I’m a DevOps Engineer with a masters degree in Computer Application. </br>
-👨‍💻 I’m interested in DevOps. CI/CD, Cloud, Kubernetes... </br>
+⚙️ I’m interested in DevOps. CI/CD, Cloud, Kubernetes... </br>
 
-### My Experiences 🙌
+### My Stats 📝
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
